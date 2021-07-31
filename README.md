@@ -1,4 +1,6 @@
 # GIT
+<img src="images/git.jpg" alt="logo">
+
 ## Configuration
 ```bash
 > git config --global user.name "name"
